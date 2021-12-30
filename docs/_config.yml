@@ -31,7 +31,7 @@ domain: "ak-219.github.io"
 
 # Build settings
 theme: minima
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 

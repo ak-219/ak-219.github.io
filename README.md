@@ -1,5 +1,5 @@
 # [ak-219.github.io](https://ak-219.github.io)
-##### Introduction to my Projects. Made from scratch BY: ak-219. Uses GitHub Pages.
+##### Introduction to my Projects. Made from scratch by: ak-219. 
 
 ```diff
 Welcome to ak-219! 

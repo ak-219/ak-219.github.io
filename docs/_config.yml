@@ -24,6 +24,7 @@ description: "By: ak-219 | GitHub Showcase."
 # >- # this means to ignore newlines until "baseurl:"
 baseurl: "/ak-219.github.io" # the subpath of your site, e.g. /blog
 url: "https://ak-219.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+markdown: kramdown
 twitter_username: ""
 github_username:  "ak-219"
 domain: "ak-219.github.io"

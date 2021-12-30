@@ -4,7 +4,7 @@ title:  "Welcome to ak-219 GitHub Showcase!"
 date:   2021-12-29 17:43:05 -0500
 categories: jekyll update
 ---
-This site is made by `ak-219` using GitHub Pages and Jeykll. 
+This site is made by `ak-219` using GitHub Pages and Jekyll. 
 
 You'll find all the projects showcased here that were made from scratch by `ak-219`. 
 Please see the ReadMe files for more details about specific projects.

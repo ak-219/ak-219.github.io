@@ -10,6 +10,16 @@ This picture is by [Chris Chow on Unsplash](https://unsplash.com/@chris_chow).
 
 ## Command To Run Locally
 ```
+python -m pip install gem
+
+Install RubyInstaller for Windows.
+
+gem install -r jekyll, bundle
+
+cd docs
+
+bundle install
+
 bundle exec jekyll serve
 ```
 
